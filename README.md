@@ -1,4 +1,4 @@
-## Hi there im <EWT/> a Fullstack Developer 👋
+## Hi there im EWT a Fullstack Developer 👋
 <h1 align="left">Skills</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
