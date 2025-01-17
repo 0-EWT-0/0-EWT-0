@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-##My skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 Here are some ideas to get you started:
