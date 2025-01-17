@@ -11,9 +11,9 @@
   </a>  
 </div>
 <div classname="portfolio">
-   <h1 align="center">My Portfolio</h1>
+   <h2 align="left">My Portfolio</h2>
 <a>
- <b align="center">url to portfolio</b>  
+ <b>url to portfolio</b>  
 </a>
 <p align="left">UX</p>
 </div>
