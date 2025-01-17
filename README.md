@@ -3,8 +3,11 @@
   <a href="https://discord.com/invite/tu-invitacion" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://discord.com/invite/tu-invitacion" target="_blank">
+  <a href="mailto:developewt@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+   <a href="https://discord.com/invite/tu-invitacion" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
   </a>
 </div>
 <p align="left">UX</p>
