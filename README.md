@@ -11,10 +11,11 @@
   </a>  
 </div>
 <div classname="portfolio">
-   <h2 align="left">My Portfolio</h2>
-<a>
- <b>url to portfolio</b>  
-</a>
+   <h2 align="left">My Portfolio:
+     <a href="https://portdfoli">
+      <h2>url to portfolio</h2>  
+     </a>
+   </h2>
 <p align="left">UX</p>
 </div>
 [(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
