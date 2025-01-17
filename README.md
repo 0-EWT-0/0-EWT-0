@@ -10,13 +10,12 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
   </a>  
 </div>
-<div classname="portfolio">
-   <h2 align="left">My Portfolio:
-     <a href="https://portdfoli">
-      <h2>url to portfolio</h2>  
-     </a>
-   </h2>
-<p align="left">UX</p>
+<div class="portfolio">
+  <h2 align="left">
+    My Portfolio:
+    <a href="https://portfolio" class="portfolio-link" target="_blank">url to portfolio</a>
+  </h2>
+  <p align="left">UX</p>
 </div>
 [(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
