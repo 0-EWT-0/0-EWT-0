@@ -1,5 +1,9 @@
 ## Hi there im EWT a Fullstack Developer 👋
-<h1 align="left">Skills</h1>
+<div>
+  <a href="">
+    https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+  </a>
+</div>
 <p align="left">UX</p>
 [(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
