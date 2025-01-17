@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<p align="left">Skills</p>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 Here are some ideas to get you started:
