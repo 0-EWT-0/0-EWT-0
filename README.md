@@ -1,7 +1,7 @@
 ## Hi there im EWT a Fullstack Developer 👋
 <h1 align="left">Skills</h1>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="left">UX</p>
+[(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 Here are some ideas to get you started:
 
