@@ -1,7 +1,7 @@
 ## Hi there im EWT a Fullstack Developer 👋
 <div>
-  <a href="">
-    https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+  <a href="https://discord.com/invite/tu-invitacion" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
 <p align="left">UX</p>
