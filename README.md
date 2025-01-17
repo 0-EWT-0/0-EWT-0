@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**0-EWT-0/0-EWT-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 Here are some ideas to get you started:
 
