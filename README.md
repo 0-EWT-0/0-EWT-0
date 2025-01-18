@@ -17,7 +17,7 @@
   </h2>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,js,ts,angular,react,tailwind,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,js,ts,angular,react,tailwind,express,nodejs,dotnet,mysql,postgres,docker,git,postman,xcode,androidstudio)](https://skillicons.dev)
 
 Here are some ideas to get you started:
 
