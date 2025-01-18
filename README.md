@@ -15,9 +15,9 @@
     My Portfolio:
     <a href="https://portfolio" class="portfolio-link" target="_blank">url to portfolio</a>
   </h2>
-  <p align="left">UX</p>
 </div>
-[(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=ai,figma)](https://skillicons.dev)
 
 Here are some ideas to get you started:
 
