@@ -17,6 +17,15 @@
   </h2>
 </div>
 
+<table>
+  <thead>
+    <tr>
+      <th align="right">Category</th>
+      <th align="left">Technologies</th>
+    </tr>
+  </thead>
+</table>
+
 [![My Skills](https://skillicons.dev/icons?i=figma,html,js,ts,angular,react,tailwind,express,nodejs,dotnet,mysql,postgres,docker,git,postman,xcode,androidstudio)](https://skillicons.dev)
 
 Here are some ideas to get you started:
