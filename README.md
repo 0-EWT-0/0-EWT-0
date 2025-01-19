@@ -17,7 +17,8 @@
   </h2>
 </div>
 
-<table>
+<div style="display: flex; justify-content: center; margin: 20px;">
+  <table style="border-collapse: collapse; text-align: center;">
   <thead>
     <tr>
       <th align="center">Category</th>
@@ -64,7 +65,8 @@
       <td align="left"><img src="https://skillicons.dev/icons?i=spring"></td>
     </tr>
   </tbody>
-</table>
+ </table>
+</div>
 
 
 Here are some ideas to get you started:
