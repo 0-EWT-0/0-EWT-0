@@ -45,6 +45,18 @@
       <td align="center">Frameworks/Libraries</td>
       <td align="left"><img src="https://skillicons.dev/icons?i=react,angular,express,nodejs,dotnet"></td>
     </tr>
+    <tr>
+      <td align="center">Execution Environments</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=nodejs,dotnet"></td>
+    </tr>
+    <tr>
+      <td align="center">DevOps/Testing</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=docker,git,postman"></td>
+    </tr>
+      <tr>
+      <td align="center">IDE's</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio">Xcode</td>
+    </tr>
   </tbody>
 </table>
 
