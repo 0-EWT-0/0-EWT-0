@@ -17,8 +17,8 @@
   </h2>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 20;">
-  <table style="border-collapse: collapse; text-align: center;">
+<div align="center">
+  <table>
   <thead>
     <tr>
       <th align="center">Category</th>
