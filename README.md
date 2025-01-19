@@ -66,6 +66,54 @@
     </tr>
   </tbody>
  </table>
+   <table>
+  <thead>
+    <tr>
+      <th align="center">Category</th>
+      <th align="center">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">UX</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=figma"></td>
+    </tr>
+    <tr>
+      <td align="center">UI</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=ts,js,tailwind"></td>
+    </tr>
+     <tr>
+      <td align="center">Languages</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=cs,java,ts,js"></td>
+    </tr>
+      <tr>
+      <td align="center">Database Engines</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=mysql,postgres"></td>
+    </tr>
+    <tr>
+      <td align="center">Frameworks/Libraries</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=react,angular,express"></td>
+    </tr>
+    <tr>
+      <td align="center">Execution Environments</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=nodejs,dotnet"></td>
+    </tr>
+    <tr>
+      <td align="center">DevOps/Testing</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=docker,git,postman"></td>
+    </tr>
+      <tr>
+      <td align="center">IDE's</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio"><img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" alt="Xcode Logo" 
+       width="50" height="50">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Wanting to learn</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=spring"></td>
+    </tr>
+  </tbody>
+ </table>
 </div>
 
 
