@@ -35,11 +35,11 @@
     </tr>
      <tr>
       <td align="center">Languages</td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=cts,js,cs,java"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=cs,java,ts,js"></td>
     </tr>
       <tr>
       <td align="center">Database Engines</td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=mysql,postrges"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=mysql,postgres"></td>
     </tr>
     <tr>
       <td align="center">Frameworks/Libraries</td>
