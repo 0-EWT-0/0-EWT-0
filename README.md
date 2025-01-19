@@ -17,7 +17,7 @@
   </h2>
 </div>
 
-<div style="display: flex; justify-content: center; margin: 20px;">
+<div style="display: flex; justify-content: center; margin: 20;">
   <table style="border-collapse: collapse; text-align: center;">
   <thead>
     <tr>
