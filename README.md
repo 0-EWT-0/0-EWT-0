@@ -26,12 +26,24 @@
   </thead>
   <tbody>
     <tr>
-      <td align="right">UX</td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=figma,ai"></td>
+      <td align="center">UX</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=figma"></td>
     </tr>
     <tr>
-      <td align="right">UI</td>
+      <td align="center">UI</td>
       <td align="left"><img src="https://skillicons.dev/icons?i=ts,js,tailwind"></td>
+    </tr>
+     <tr>
+      <td align="center">Languages</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=cts,js,cs,java"></td>
+    </tr>
+      <tr>
+      <td align="center">Database Engines</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=mysql,postrges"></td>
+    </tr>
+    <tr>
+      <td align="center">Frameworks/Libraries</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=react,angular,express,nodejs,dotnet"></td>
     </tr>
   </tbody>
 </table>
