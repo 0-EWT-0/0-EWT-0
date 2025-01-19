@@ -24,6 +24,12 @@
       <th align="left">Technologies</th>
     </tr>
   </thead>
+  <tbody>
+    <tr>
+      <td align="right">UX</td>
+      <td align="left"></td>
+    </tr>
+  </tbody>
 </table>
 
 [![My Skills](https://skillicons.dev/icons?i=figma,html,js,ts,angular,react,tailwind,express,nodejs,dotnet,mysql,postgres,docker,git,postman,xcode,androidstudio)](https://skillicons.dev)
