@@ -47,7 +47,7 @@
       <td align="left"><img src="https://skillicons.dev/icons?i=react,angular,express"></td>
     </tr>
     <tr>
-      <td align="center">Execution Environments</td>
+      <td align="center">Runtime Environments</td>
       <td align="left"><img src="https://skillicons.dev/icons?i=nodejs,dotnet"></td>
     </tr>
     <tr>
