@@ -17,7 +17,7 @@
   </h2>
 </div>
 
-<div align="center">
+<div>
   <table>
   <thead>
     <tr>
