@@ -27,7 +27,7 @@
   <tbody>
     <tr>
       <td align="right">UX</td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=figma" alt="Figma Icon" width="32" height="32"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=figma" alt="Figma Icon"></td>
     </tr>
   </tbody>
 </table>
