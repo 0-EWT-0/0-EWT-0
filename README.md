@@ -20,8 +20,8 @@
 <table>
   <thead>
     <tr>
-      <th align="right">Category</th>
-      <th align="left">Technologies</th>
+      <th align="center">Category</th>
+      <th align="center">Technologies</th>
     </tr>
   </thead>
   <tbody>
