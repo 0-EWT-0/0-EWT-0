@@ -27,7 +27,14 @@
   <tbody>
     <tr>
       <td align="right">UX</td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=figma" alt="Figma Icon"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=figma"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=ai"></td>
+    </tr>
+    <tr>
+      <td align="right">UI</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=ts"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=js"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=tailwind"></td>
     </tr>
   </tbody>
 </table>
