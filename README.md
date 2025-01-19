@@ -59,6 +59,10 @@
        width="50" height="50">
       </td>
     </tr>
+    <tr>
+      <td align="center">Wanting to learn</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=spring"></td>
+    </tr>
   </tbody>
 </table>
 
