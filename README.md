@@ -55,7 +55,9 @@
     </tr>
       <tr>
       <td align="center">IDE's</td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio"><img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" alt="Xcode Logo"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio"><img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" alt="Xcode Logo" 
+       width="40" height="40">
+      </td>
     </tr>
   </tbody>
 </table>
