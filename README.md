@@ -55,7 +55,7 @@
     </tr>
       <tr>
       <td align="center">IDE's</td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio">Xcode</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio"><b align="center">&& Xcode</b></td>
     </tr>
   </tbody>
 </table>
