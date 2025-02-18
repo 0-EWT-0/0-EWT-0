@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <td align="center">Frameworks/Libraries</td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=react,angular,express"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=react,angular,express,vue"></td>
     </tr>
     <tr>
       <td align="center">Runtime Environments</td>
