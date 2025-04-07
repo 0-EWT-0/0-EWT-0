@@ -61,8 +61,8 @@
       </td>
     </tr>
     <tr>
-      <td align="center">Wanting to learn</td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=spring"></td>
+      <td align="center">Learning</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=aws"></td>
     </tr>
   </tbody>
  </table>
