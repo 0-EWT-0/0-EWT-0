@@ -13,7 +13,7 @@
 <div class="portfolio">
   <h2 align="left">
     My Portfolio:
-    <a href="https://eg-portfolio-phi.vercel.app/" class="portfolio-link" target="_blank">url to portfolio</a>
+    <a href="https://eg-portfolio-phi.vercel.app/" class="portfolio-link" target="_blank">Go to my Portfolio</a>
   </h2>
 </div>
 
