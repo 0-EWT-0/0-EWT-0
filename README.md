@@ -9,6 +9,10 @@
    <a href="https://leetcode.com/u/0-EWT-0/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
   </a>  
+   </a>
+   <a href="https://leetcode.com/u/0-EWT-0/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="LeetCode">
+  </a>  
 </div>
 <div class="portfolio">
   <h2 align="left">
