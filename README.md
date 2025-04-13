@@ -1,19 +1,19 @@
 ## Hi there, im EWT a Fullstack Developer 👋
 <div>
-  <a href="https://discord.com/invite/tu-invitacion" target="_blank">
+  <a href="https://discord.com/invite/tu-invitacion" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="mailto:developewt@gmail.com" target="_blank">
+  <a href="mailto:developewt@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-   <a href="https://leetcode.com/u/0-EWT-0/" target="_blank">
+   <a href="https://leetcode.com/u/0-EWT-0/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
   </a>  
 </div>
 <div class="portfolio">
   <h2 align="left">
     My Portfolio:
-    <a href="https://eg-portfolio-phi.vercel.app/" class="portfolio-link" target="_blank">Go to my Portfolio</a>
+    <a href="https://eg-portfolio-phi.vercel.app/" class="portfolio-link" target="_blank" rel="noopener noreferrer">Go to my Portfolio</a>
   </h2>
 </div>
 
